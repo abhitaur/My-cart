@@ -1,0 +1,11 @@
+.longimage img{
+    height: 500px;
+    width: 250px;
+    float: left;
+}
+.details{
+    height: 500px;
+    width: 700px;
+    float: right;
+  
+}

@@ -1,0 +1,31 @@
+.paymentbox{
+background: #d5cfcf;
+height: 330px;
+width: 37%;
+float: right;
+margin: 6px;
+
+}
+
+.box {
+  height: 250px;
+  width: 60%;
+  background: rgb(249, 245, 245);
+  margin: 10px;
+}
+
+.box img {
+  height: 170px;
+  width: 200px;
+  padding: 20px;
+}
+.box .btngroup {
+  padding-left: 40px;
+}
+.box2 {
+ height: 230px;
+ width: 500px;
+  background: #dad1d1;
+  margin: 10px;
+  float: right;
+}

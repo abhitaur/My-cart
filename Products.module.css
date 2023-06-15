@@ -1,0 +1,11 @@
+.box {
+  margin: 1rem;
+margin-left: 10px;
+margin-right: 12px;
+  float: right;
+}
+
+img {
+  height: 250px;
+  width: 270px;
+}
